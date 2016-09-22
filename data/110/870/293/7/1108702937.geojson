@@ -1,0 +1,65 @@
+{
+  "id": 1108702937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"34.7595,32.0554,34.7595,32.0554",
+    "geom:latitude":32.0554,
+    "geom:longitude":34.7595,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "sg:address":"88 Menachem Begin Street",
+    "sg:city":"Tel Aviv",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"67138",
+    "sg:website":"http://www.moblica.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85907293,
+        85632589,
+        85672549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iaOFWoHk6Hb4ZLAFnx201_32.055400_34.759500@1308163237"
+    },
+    "wof:country":"IL",
+    "wof:created":1474570892,
+    "wof:geomhash":"fb1bb54997ef414e0989b517fcebc4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85632589,
+            "locality_id":-1,
+            "neighbourhood_id":85907293,
+            "region_id":85672549,
+            "venue_id":1108702937
+        }
+    ],
+    "wof:id":1108702937,
+    "wof:lastmodified":1474570892,
+    "wof:name":"Moblica",
+    "wof:parent_id":85907293,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.7595,
+    32.0554,
+    34.7595,
+    32.0554
+],
+  "geometry": {"coordinates":[34.7595,32.0554],"type":"Point"}
+}

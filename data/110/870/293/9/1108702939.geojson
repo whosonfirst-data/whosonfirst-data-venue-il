@@ -1,0 +1,63 @@
+{
+  "id": 1108702939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"34.851612,31.046051,34.851612,31.046051",
+    "geom:latitude":31.046051,
+    "geom:longitude":34.851612,
+    "iso:country":"IL",
+    "mz:hierarchy_label":1,
+    "sg:address":"30 Ben Gurion St.",
+    "sg:city":"Ramat Gan",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"52573",
+    "sg:tags":[
+        "blogtv",
+        "broadcast",
+        "chat",
+        "live"
+    ],
+    "sg:website":"http://www.blogtv.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3euCmJRhZx540v5AHy3UCJ_31.046051_34.851612@1308163236"
+    },
+    "wof:country":"IL",
+    "wof:created":1474570892,
+    "wof:geomhash":"4770956fdbecd3730618aa9ce8cd3385",
+    "wof:hierarchy":[],
+    "wof:id":1108702939,
+    "wof:lastmodified":1474570892,
+    "wof:name":"blogTV",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-il",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blogtv",
+        "broadcast",
+        "chat",
+        "live"
+    ]
+},
+  "bbox": [
+    34.851612,
+    31.046051,
+    34.851612,
+    31.046051
+],
+  "geometry": {"coordinates":[34.851612,31.046051],"type":"Point"}
+}
